@@ -8,12 +8,12 @@ The source code of the paper titled 'Event-Argument Linking in Hindi for Informa
 We cannot provide the entire dataset used in our experiments as it is not a publicly available dataset. We have manually created the dataset for our own research purpose. Our research with this dataset is still ongoing. Here we have shown a sample train and test file which consists of the pattern of the training and test dataset used in our experiments.
 
 # Dependency
-Python : 2.7
-scikit-learn: 0.19.2
-tensorflow: 1.9.0
-tensorflow-gpu: 1.9.0
-keras: 2.2.2
-numpy: 1.15.1
+* Python : 2.7
+* scikit-learn: 0.19.2
+* tensorflow: 1.9.0
+* tensorflow-gpu: 1.9.0
+* keras: 2.2.2
+* numpy: 1.15.1
 
 # Compile
 python model.py
