@@ -20,4 +20,4 @@ We cannot provide the entire dataset used in our experiments as it is not a publ
 
 # Output
 .json and .h5 files will be stored in the path of the file model.py and the model performance will be displayed on the terminal. Precision, Recall, F-Score for both the classes will be printed on the terminal. We have also tried to print the confusion matrix resulting from the classification. How the model predicts the test data in terms of the number of YES and NO cases actually present in the test dataset has also been evaluated and printed.
-In order to understand where the system has gone wrong, we have made elaborate error analysis from the output_bi-lstm+cnnjan.csv which will be stored in the same path as *model.py* 
+In order to understand where the system has gone wrong, we have made elaborate error analysis from the *output_bi-lstm+cnnjan.csv* which will be stored in the same path as *model.py* 
