@@ -56,24 +56,6 @@ model = KeyedVectors.load_word2vec_format('cc.hi.300.vec')
 pos=np.random.rand(1000,50)
 
 
-'''
-t = Tokenizer()
-t.fit_on_texts(sent)
-vocab_size = len(t.word_index) + 1
-
-
-#model=load_vectors()
-
-f_model={}
-for key,value in t.word_index.items():
-    if key in model:
-        #new_model[key]=model[key]
-        f_model[key]=model[key]
-np.save('total_dataset_fasttext.npy', f_model)
-
-'''
-
-
 model=np.load('total_dataset_fasttext_7jan.npy').item()			#loading the dictionary consisting of all the mentioned words in the training dataset along with its word embedding vector.
 
 #sentence embedding
