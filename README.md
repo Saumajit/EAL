@@ -1,6 +1,8 @@
 # EVENT-ARGUMENT LINKING(EAL)
 Given a Hindi sentence comprising of the sequence,w1,w2,e1,e2,ei,w3...wk,a1,a2,aj,wk+1...wn, where ei is known as an event trigger and aj is known as a candidate argument, the task is to predict whether there exists a relationship between an event trigger ei and an argument trigger aj or not.
 
+# System architecture
+![alt text](https://github.com/Saumajit/EAL/edit/master/architecture.png)
 # Code
 The source code of the paper titled 'Event-Argument Linking in Hindi for Information Extraction in Disaster Domain', published in 20th International Conference on Computational Linguistics and Intelligent Text Processing, CICLing 2019 is put in the file *model.py*
 
