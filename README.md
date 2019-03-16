@@ -6,7 +6,7 @@ Given a Hindi sentence comprising of the sequence,w1,w2,e1,e2,ei,w3...wk,a1,a2,a
 
 
 # Code
-The source code of the paper titled **Event-Argument Linking in Hindi for Information Extraction in Disaster Domain**, published in the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019)* is put in the file *model.py*
+The source code of the paper titled **Event-Argument Linking in Hindi for Information Extraction in Disaster Domain**, accepted in the *20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2019)* is put in the file *model.py*
 
 # Dataset
 We cannot provide the entire dataset used in our experiments as it is not a publicly available dataset. We have manually created the dataset for our own research purpose. Our research with this dataset is still ongoing. Here we have shown a sample train and test file which consists of the pattern of the training and test dataset used in our experiments.
