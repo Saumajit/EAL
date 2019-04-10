@@ -1,5 +1,5 @@
 # EVENT-ARGUMENT LINKING(EAL)
-Given a Hindi sentence comprising of the sequence,w1,w2,e1,e2,ei,w3...wk,a1,a2,aj,wk+1...wn, where ei is known as an event trigger and aj is known as a candidate argument, the task is to predict whether there exists a relationship between an event trigger ei and an argument trigger aj or not.
+Given a Hindi sentence comprising of the sequence,w1,w2,e1,e2,...,ei,w3,...,wk,a1,a2,...,aj,wk+1,...,wn, where ei is known as an event trigger and aj is known as a candidate argument, the task is to predict whether there exists a relationship between an event trigger ei and an argument trigger aj or not.
 
 # System architecture
 ![architecture](https://user-images.githubusercontent.com/37550911/53303462-80459280-3890-11e9-9917-6090782f58d8.png)
